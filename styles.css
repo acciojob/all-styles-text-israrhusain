@@ -3,15 +3,13 @@
 .text1{
 	border-left:5px solid green;
 	
-	padding-left:10px;
-	padding-right:10px;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding:10px 10px 10px 10px;
 	color:white;
 	background-color:purple;
 	width:200px;
 	style:underline;
 	left-border-color:green;
 	font-size:20px;
+	text-decoration:underline;
 	
 }
