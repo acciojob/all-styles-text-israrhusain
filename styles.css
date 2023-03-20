@@ -1,14 +1,18 @@
 
 /* Your CSS Code here. */
+#heading{
+	font-size:20px;
+	text-decoration:underline;
+	color:white;
+}
 .main{
 	border-left:5px solid green;
 	
 	padding:10px 10px 10px 10px;
-	color:white;
+	
 	background-color:purple;
 	width:200px;
 	left-border-color:green;
-	font-size:20px;
-	text-decoration:underline;
+	
 	
 }
